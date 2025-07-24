@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "puo-memo": {
+      "command": "npx",
+      "args": ["puo-memo-mcp"],
+      "env": {
+        "PUO_MEMO_API_KEY": "test-dev-puo-memo-xyz"
+      }
+    }
+  }
+}
