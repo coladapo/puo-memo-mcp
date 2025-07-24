@@ -1,0 +1,45 @@
+# Source files
+src/
+tests/
+examples/
+
+# Config files
+tsconfig.json
+.eslintrc.json
+.prettierrc
+vitest.config.ts
+
+# Development files
+*.log
+*.tmp
+.env*
+!.env.example
+
+# Git files
+.git/
+.github/
+.gitignore
+
+# Documentation source
+docs/source/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts not needed
+coverage/
+.nyc_output/
+
+# Keep only necessary files:
+# dist/
+# README.md
+# LICENSE
+# CHANGELOG.md
+# package.json
