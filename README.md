@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/puo-memo-mcp.svg)](https://www.npmjs.com/package/puo-memo-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io)
-[![GitHub stars](https://img.shields.io/github/stars/puo-memo/puo-memo-mcp?style=social)](https://github.com/puo-memo/puo-memo-mcp)
+[![GitHub stars](https://img.shields.io/github/stars/coladapo/puo-memo-mcp?style=social)](https://github.com/coladapo/puo-memo-mcp)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 Open source MCP client for [PUO Memo](https://puo-memo.com) - the universal memory system for AI assistants.
