@@ -103,7 +103,7 @@ Ultimate Server:
      "args": ["/Users/wivak/puo-jects/active/purmemo/purmemo-mcp/src/ultimate-server.js"],
      "env": {
        "PURMEMO_API_URL": "https://api.purmemo.ai",
-       "PURMEMO_API_KEY": "pk_live_XDz2wcxW_U5fXjNaojQSaMqoK9CiY2EMqJx5QBFwuMIECFG0ePUY"
+       "PURMEMO_API_KEY": "YOUR_API_KEY_HERE"
      }
    }
    ```
